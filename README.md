@@ -23,7 +23,7 @@ Atualmente curso **Ciência de Dados** e **Administração**, enquanto desenvolv
 
 ## O que estou desenvolvendo
 
-### AlphaAI
+### [AlphaAI](https://github.com/jhonyhv/AlphaAI-Showcase)
 
 Meu principal projeto atualmente. É uma plataforma de educação financeira criada para ajudar pessoas a organizar a vida financeira, aprender sobre investimentos e tomar decisões com mais consciência.
 
@@ -31,7 +31,7 @@ O projeto reúne jornada de aprendizado, calculadora financeira, planejamento de
 
 **Tecnologias:** Python, Streamlit, SQLite, Plotly, APIs de mercado e testes automatizados.
 
-> O repositório permanece privado durante o desenvolvimento do produto.
+[![Conhecer o projeto](https://img.shields.io/badge/Conhecer%20o%20AlphaAI-0891B2?style=flat-square&logo=github&logoColor=white)](https://github.com/jhonyhv/AlphaAI-Showcase)
 
 ### [ConcursoAI — Banco do Brasil Edition](https://github.com/jhonyhv/concurso-ai)
 
