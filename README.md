@@ -2,32 +2,56 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+eu+sou+Jhony+Vieira;Estudante+de+Ci%C3%AAncia+de+Dados;Python+%7C+SQL+%7C+Power+BI;Transformando+dados+em+informa%C3%A7%C3%B5es+%C3%BAteis)](https://git.io/typing-svg)
+### Ciência de Dados em formação | Python, SQL e Power BI
 
-### Estudante de Ciência de Dados | Python | SQL | Power BI
-
-Desenvolvo projetos de análise de dados, dashboards e automação com foco em transformar dados em informações claras para apoiar decisões.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhony%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonyhvieira/)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhony.hebert2014@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jhonyhv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonyhv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonyhvieira/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhony.hebert2014@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-- 📍 Ribeirão Preto, São Paulo, Brasil
-- 🎓 Estudante de Ciência de Dados e Administração
-- 📊 Interesse em análise de dados, Business Intelligence, dashboards e automação
-- 🧠 Desenvolvendo conhecimentos em Python, SQL, Power BI, DAX e Power Query
-- 🚀 Atualmente trabalhando em projetos como o **ConcursoAI** e um **Dashboard de RH**
-- 💼 Em busca de oportunidades para aplicar tecnologia e análise de dados em problemas reais
+Estou construindo minha trajetória na área de dados por meio de projetos práticos, estudando como Python, SQL e Power BI podem ajudar a entender problemas e melhorar processos.
+
+Minha experiência profissional passa por áreas administrativas, produção, estoque, liderança e atendimento. Esse contato com rotinas reais despertou meu interesse por organização, indicadores e tecnologia — principalmente por soluções que sejam úteis de verdade, e não apenas exercícios técnicos.
+
+Atualmente curso **Ciência de Dados** e **Administração**, enquanto desenvolvo projetos próprios para ampliar meu portfólio.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## O que estou desenvolvendo
+
+### AlphaAI
+
+Meu principal projeto atualmente. É uma plataforma de educação financeira criada para ajudar pessoas a organizar a vida financeira, aprender sobre investimentos e tomar decisões com mais consciência.
+
+O projeto reúne jornada de aprendizado, calculadora financeira, planejamento de metas, assistente com inteligência artificial, acompanhamento de carteira e ferramentas para estudar dados do mercado.
+
+**Tecnologias:** Python, Streamlit, SQLite, Plotly, APIs de mercado e testes automatizados.
+
+> O repositório permanece privado durante o desenvolvimento do produto.
+
+### [ConcursoAI — Banco do Brasil Edition](https://github.com/jhonyhv/concurso-ai)
+
+Plataforma pessoal para preparação de concursos, com dashboard de desempenho, banco de questões, simulados, flashcards, revisão espaçada, metas de estudo e professor com inteligência artificial.
+
+**Tecnologias:** Python, Streamlit, SQLite, Supabase e automações com GitHub Actions.
+
+### Dashboard de RH
+
+Projeto de portfólio em desenvolvimento para analisar indicadores como quadro de funcionários, admissões, desligamentos, turnover, absenteísmo e perfil dos colaboradores.
+
+**Tecnologias:** Power BI, Power Query, DAX e Excel.
+
+### [Calculadora de Meses de Nascimento](https://github.com/jhonyhv/Calculadora-de-Meses)
+
+Um dos meus primeiros projetos em Python. Calcula aproximadamente quantos meses e dias uma pessoa já viveu e permite realizar vários cálculos na mesma execução.
+
+---
+
+## Tecnologias que estou utilizando
 
 <div align="center">
 
@@ -39,51 +63,18 @@ Desenvolvo projetos de análise de dados, dashboards e automação com foco em t
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## Atividade no GitHub
 
 <div align="center">
 
-<a href="https://github.com/jhonyhv/concurso-ai">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonyhv&repo=concurso-ai&theme=tokyonight&hide_border=true&locale=pt-br" />
-</a>
-<a href="https://github.com/jhonyhv/Calculadora-de-Meses">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonyhv&repo=Calculadora-de-Meses&theme=tokyonight&hide_border=true&locale=pt-br" />
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyhv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" />
 
 </div>
-
-### ConcursoAI — Banco do Brasil Edition
-
-Plataforma de preparação para concursos construída com **Python, Streamlit e SQLite**, com dashboard de desempenho, simulados, banco de questões, flashcards, revisão espaçada, metas e recursos de inteligência artificial.
-
-### Calculadora de Meses de Nascimento
-
-Projeto em **Python e Jupyter Notebook** que calcula aproximadamente quantos meses e dias uma pessoa já viveu, permite vários cálculos consecutivos e apresenta o total acumulado.
-
-### Dashboard de RH — em desenvolvimento
-
-Projeto de portfólio voltado à análise de indicadores de pessoas, como headcount, admissões, desligamentos, turnover, absenteísmo e perfil dos colaboradores utilizando **Power BI, Power Query e DAX**.
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=jhonyhv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&locale=pt-br" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyhv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" />
-
-</div>
-
----
-
-## 🐍 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonyhv/jhonyhv/output/github-contribution-grid-snake-dark.svg">
@@ -95,11 +86,9 @@ Projeto de portfólio voltado à análise de indicadores de pessoas, como headco
 
 <div align="center">
 
-### Vamos nos conectar
+Estou aberto a oportunidades, novos projetos e troca de conhecimentos sobre dados e tecnologia.
 
-Estou aberto a oportunidades, colaboração em projetos e troca de conhecimentos sobre dados e tecnologia.
-
-[![LinkedIn](https://img.shields.io/badge/Acessar_meu_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonyhvieira/)
+[![LinkedIn](https://img.shields.io/badge/Entrar%20em%20contato%20pelo%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonyhvieira/)
 
 </div>
 
